@@ -15,7 +15,6 @@
 - 🧠 Interested in <b>Algorithms</b><br>
 - ⚙️ Fascinated by <b>Complex Systems</b><br>
 - 🗣️ Enjoy learning <b>New Programming Languages</b><br>
-- ☕ Often fueled by coffee and curiosity ☕
 </td>
 <td valign="top" align="center">
   <img src="https://media.giphy.com/media/l0HlQ7LRalZ2Rdb0g/giphy.gif" width="200" />
