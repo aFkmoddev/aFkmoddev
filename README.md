@@ -1,20 +1,14 @@
-# 👋 Hi, I'm Parham  
-
+# 👋 Hi
 <p align="center">
   <b style="font-size:24px;">Welcome to my GitHub profile! 🚀</b>
 </p>
-
 ---
-
 ## 💫 About Me
 
 <table>
 <tr>
 <td valign="top">
-- 💪 Passionate about <b>Calisthenics</b><br>
-- 🧠 Interested in <b>Algorithms</b><br>
 - ⚙️ Fascinated by <b>Complex Systems</b><br>
-- 🗣️ Enjoy learning <b>New Programming Languages</b><br>
 </td>
 <td valign="top" align="center">
   <img src="https://media.giphy.com/media/l0HlQ7LRalZ2Rdb0g/giphy.gif" width="200" />
