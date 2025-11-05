@@ -2,19 +2,6 @@
 <p align="center">
   <b style="font-size:24px;">Welcome to my GitHub profile! 🚀</b>
 </p>
----
-## 💫 About Me
-
-<table>
-<tr>
-<td valign="top">
-- ⚙️ Fascinated by <b>Complex Systems</b><br>
-</td>
-<td valign="top" align="center">
-  <img src="https://media.giphy.com/media/l0HlQ7LRalZ2Rdb0g/giphy.gif" width="200" />
-</td>
-</tr>
-</table>
 
 ---
 
